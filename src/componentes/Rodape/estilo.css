@@ -1,0 +1,17 @@
+.rodape {
+  font-size: 22px;
+}
+
+footer {
+  width: 100%; 
+  text-align: center;
+  box-shadow: 5px 5px 10px rgb(0 0 0 / 49%);
+}
+
+.pe-estilo {
+  height: 45px;
+  font-weight: bold;
+  bottom: 0;
+  position: fixed;
+  background-color: #f3f0e8;
+}

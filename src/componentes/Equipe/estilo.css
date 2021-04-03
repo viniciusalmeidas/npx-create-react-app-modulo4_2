@@ -1,0 +1,47 @@
+.nome {
+  font-family: "Currier New", cursive;
+  color: #5d0612;
+  font-size: 32.5px;
+  border-color: #f3ae19;
+  border-style: solid;
+  padding: 5px;
+}
+
+.foto {
+  border: solid #e9d414e7;
+  margin-left: 20%;
+  border-radius: 80px; 
+  padding: 1px;
+}
+
+
+.paragrafoEquipe {
+  width: 800px;
+  font-size: 20px;
+  text-indent: 18px;
+  font-family: "Ubuntu", sans-serif;
+  line-height: 34px;
+  text-align: justify;
+}
+
+
+.container1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 5%;
+}
+
+.icones-sociais{
+  float: center;
+  display: flex;
+  justify-content: space-around;
+
+}
+
+ul li {
+  display: table-cell;
+  vertical-align: middle;
+  padding: 10px;
+}
