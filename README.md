@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://topdrinks-react.revisional.org/">
-    🚀  <img alt="Gatsby" src="" width="250" />
+    🚀  
   </a>
 </p>
 <h2 align="center">
