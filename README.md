@@ -1,17 +1,15 @@
 <p align="center">
-  <a href="http://topdrinks-react.revisional.org/">
     🚀  
-  </a>
 </p>
 <h2 align="center">
   PROJETO REACT 4 - TOP DRINKS GASTROBAR - http://topdrinks-react.revisional.org/
 </h2>
 <p align="center">
   <a href="http://topdrinks-react.revisional.org/">
-    <img alt="Banner Site" src="" width="650" />
+    <img src="https://github.com/viniciusalmeidas/projeto-topdrinksgastrobar-react/blob/main/public/imagem-site.png" width="980" height="350"/>
   </a>
 </p>
-
+imagem-site.png
 
 <hr>
 
@@ -82,7 +80,7 @@ Montagem de uma loja com tema predefinido pela VTEX utilizando:
 <hr>
 
 ## **Quem sou:**
-|  <img src="https://github.com/viniciusalmeidas.png" width="150" height="125">  |
+|  <img src="https://github.com/viniciusalmeidas.png" width="1750" height="135">  |
 | :--------------: | 
 | **Vinícius Almeida de Souza** | 
 |:octocat: [GitHub](https://github.com/viniciusalmeidas) | 
