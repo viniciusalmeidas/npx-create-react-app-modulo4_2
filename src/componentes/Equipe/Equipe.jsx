@@ -3,17 +3,15 @@ import React from "react";
 import Header from "../Header";
 import Rodape from "../Rodape";
 import foto from "../../assets/Encit-EU.JPG";
-import fotogithub from "../../assets/github.png"
-import fotoinstagram from "../../assets/instagram.png"
-import fotolinkedin from "../../assets/linkedin.png"
+import fotogithub from "../../assets/github.png";
+import fotoinstagram from "../../assets/instagram.png";
+import fotolinkedin from "../../assets/linkedin.png";
 
 export default function Equipe() {
-
   return (
     <>
       <Header />
       <div className="container1">
-        
         <section className="esquerda">
           <h1 className="nome">Vinícius Almeida de Souza</h1>
           <img className="foto" src={foto} width="250px" alt="Uma foto minha" />
@@ -35,16 +33,49 @@ export default function Equipe() {
             dashboards em BI.
           </p>
           <ul class="icones-sociais">
-                <li><a href="https://github.com/viniciusalmeidas" target="_blank"><img src={fotogithub} width="50px" alt="Icone do GitHub"/></a></li>
+            <li>
+              <a
+                href="https://github.com/viniciusalmeidas"
+                rel="noreferrer"
+                target="_blank"
+              >
+                <img
+                  src={fotogithub}
+                  width="50px"
+                  alt="Icone do GitHub"
+                />
+              </a>
+            </li>
 
-                <li><a href="https://www.linkedin.com/in/valmsou/" target="_blank"><img src={fotolinkedin} width="50px" alt="Icone do Linkedin"/></a></li>
+            <li>
+              <a
+                href="https://www.linkedin.com/in/valmsou/"
+                rel="noreferrer"
+                target="_blank"
+              >
+                <img
+                  src={fotolinkedin}
+                  width="50px"
+                  alt="Icone do Linkedin"
+                />
+              </a>
+            </li>
 
-
-                <li><a href="https://www.instagram.com/v.alma_br/?hl=es" target="_blank"><img src={fotoinstagram} width="72.5px" alt="Icone do Instagram"/></a></li>
-        </ul>
-        
+            <li>
+              <a
+                href="https://www.instagram.com/v.alma_br/?hl=es"
+                rel="noreferrer"
+                target="_blank"
+              >
+                <img
+                  src={fotoinstagram}
+                  width="72.5px"
+                  alt="Icone do Instagram"
+                />
+              </a>
+            </li>
+          </ul>
         </section>
-        
       </div>
       <Rodape />
     </>

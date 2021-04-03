@@ -16,19 +16,19 @@ function App() {
           <Route path="/contato">
             <Formulario titulo="contato" />
           </Route>
-          <Route exact path="/drinks/DrinksPopulares">
+          <Route exact path="/bebidas/DrinksPopulares">
             <Api />
           </Route>
           <Route path="/equipe">
             <Equipe />
           </Route>
           <Route path="/sobre">
-              <SobreNos/>
+            <SobreNos />
           </Route>
           <Route path="/teste">
             <Headers />
           </Route>
-          <Route path="/drinks/buscarDrink">
+          <Route path="/bebidas/buscarDrink">
             <Teste />
           </Route>
           <Route exact path="/">

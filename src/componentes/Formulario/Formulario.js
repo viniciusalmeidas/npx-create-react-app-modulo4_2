@@ -1,12 +1,12 @@
 import React, { Component, useState } from "react";
-import imagemContato from "../../assets/contato.jpg";
+import imgContato from "../../assets/contato.jpg";
 import Botao from "../Botao/Botao";
 import Header from "../Header";
 import Rodape from "../Rodape";
-import "./estilo.css";
+import "./styleForm.css";
 import Input from "../Input/Input";
 
-export default function Formulario({titulo}) {
+export default function Formulario({ titulo }) {
   const [texto, setTexto] = useState("Enviar");
 
   function handleClick() {
@@ -21,7 +21,12 @@ export default function Formulario({titulo}) {
       <h1 className="titulo">{titulo}</h1>
       <section className="principal">
         <div className="div2">
-          <img className="imag1" alt="TOP Drinks Contato" src={imagemContato} width="400px" />
+          <img
+            className="imag1"
+            alt="TOP Drinks Contato"
+            src={imgContato}
+            width="400px"
+          />
         </div>
         <div className="div1">
           <div className="divForms">

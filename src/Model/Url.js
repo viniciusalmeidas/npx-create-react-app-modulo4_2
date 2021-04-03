@@ -4,9 +4,7 @@ export async function requisicao() {
   );
 
   const dados = await response.json();
-  /* .then((res) => res.json())
-.then((json) => json.drinks[0]);
- */
+
   return dados.drinks;
 }
 
@@ -16,8 +14,6 @@ export async function requisicaoBuscar(bebida) {
   );
 
   const dados = await response.json();
-  /* .then((res) => res.json())
-.then((json) => json.drinks[0]);
- */
+
   return dados.drinks;
 }

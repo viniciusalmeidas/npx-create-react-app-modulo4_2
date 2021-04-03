@@ -9,7 +9,7 @@
   justify-content: space-around;
   display: flex;
   flex-direction: column;
-  height: 300px;
+  height: 400px;
   grid-column-start: 2;
   grid-column-start: 3;
 }
@@ -17,13 +17,13 @@
   display: flex;
   justify-content: space-around;
   flex-direction: column;
-  height: 300px;
+  height: 400px;
 }
 .configinput {
-  width: 400px;
-  border: solid 1px;
+  width: 450px;
+  border: solid 2px;
   border-radius: 5px;
-  height: 25px;
+  height: 45px;
   margin-top: 10px;
 }
 
@@ -35,10 +35,10 @@
 }
 
 .botao1 {
-  align-self:flex-end;
-  font-size: medium;
-  height: 30px;
-  width: 150px;
+  align-self: flex-end;
+  font-size: large;
+  height: 40px;
+  width: 180px;
   color: white;
   background-color: #5d0612;
   border: none;
@@ -51,17 +51,16 @@
 
 .rodape {
   margin-top: 10px;
-  font-size: 13px;
+  font-size: 19px;
 }
 
-.titulocontato {
+.titulo {
   align-self: center;
+  margin-top: 25px;
   font-family: "Bilbo Swash Caps", cursive;
   color: #5d0612;
   font-size: 70px;
-  margin-bottom: 0px;
-
-
+  margin-bottom: 20px;
 }
 .principal {
   display: flex;
@@ -81,4 +80,3 @@
   grid-column: 1;
   align-items: center;
 }
-
