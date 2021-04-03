@@ -1,13 +1,13 @@
 <p align="center">
-  <a href="https://storetheme.vtex.com/">
+  <a href="http://topdrinks-react.revisional.org/">
     🚀  <img alt="Gatsby" src="" width="250" />
   </a>
 </p>
 <h2 align="center">
-  PROJETO REACT 4 - TOP DRINKS GASTROBAR
+  PROJETO REACT 4 - TOP DRINKS GASTROBAR - http://topdrinks-react.revisional.org/
 </h2>
 <p align="center">
-  <a href="">
+  <a href="http://topdrinks-react.revisional.org/">
     <img alt="Banner Site" src="" width="650" />
   </a>
 </p>
@@ -21,7 +21,7 @@
 
 ### Você pode acompanhar a desenvolvimento do site através do site hospedado no Netlify
 
-  [![Netlify Status](https://api.netlify.com/api/v1/badges/3c7b83ca-3967-4f8b-b291-e0c5c0fc9311/deploy-status)](https://topdrinks-react.netlify.app/)
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/3c7b83ca-3967-4f8b-b291-e0c5c0fc9311/deploy-status)](http://topdrinks-react.revisional.org/)
 
 
 ### 🧐 Olhando os arquivos
