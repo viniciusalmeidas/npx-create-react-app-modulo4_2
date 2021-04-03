@@ -21,9 +21,8 @@
 
 ### Você pode acompanhar a desenvolvimento do site através do site hospedado no Netlify
 
-<p align="left">
   [![Netlify Status](https://api.netlify.com/api/v1/badges/3c7b83ca-3967-4f8b-b291-e0c5c0fc9311/deploy-status)](https://topdrinks-react.netlify.app/)
-</p>
+
 
 ### 🧐 Olhando os arquivos
 
