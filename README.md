@@ -19,12 +19,10 @@
   Como o repositório está organizado
 </h2>
 
-### Você pode acompanhar a desenvolvimento do site através do Notion da Equipe
+### Você pode acompanhar a desenvolvimento do site através do site hospedado no Netlify
 
 <p align="left">
-  <a href="https://www.notion.so/P-gina-Inicial-409363ccfd71408090fb2bca6169efea">
-    <img alt="Group Notion" src="https://i.pinimg.com/originals/f5/50/f9/f550f940f42ecf816241806e4386d216.png" width="50" />
-  </a>
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/3c7b83ca-3967-4f8b-b291-e0c5c0fc9311/deploy-status)](https://topdrinks-react.netlify.app/)
 </p>
 
 ### 🧐 Olhando os arquivos
