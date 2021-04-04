@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React  from "react";
 import Header from "../Header";
 import Rodape from "../Rodape";
 import "./estilo.css";

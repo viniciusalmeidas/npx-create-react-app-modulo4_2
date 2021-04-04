@@ -5,7 +5,9 @@ import Rodape from "../Rodape/Rodape";
 import "./style.css";
 import { requisicaoBuscar } from "../../Model/Url";
 import logo from "../../assets/logo.png"
-export default function Teste() {
+
+
+export default function Bebidas() {
   let { url } = useRouteMatch();
   const [nomeBebida, setNomeBebida] = useState("");
   const [nomeEncontado, setNomeEncontrado] = useState("Titulo Bebida");

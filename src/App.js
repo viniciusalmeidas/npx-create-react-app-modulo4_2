@@ -1,10 +1,10 @@
-import Teste from "./componentes/BuscarDrink/Teste";
-import Equipe from "./componentes/Equipe/Equipe";
-import SobreNos from "./componentes/sobreNos/SobreNos";
-import Formulario from "./componentes/Formulario/";
-import Home from "./componentes/Home/Home";
+import Bebidas from "./components/BuscarDrink/Bebidas";
+import Equipe from "./components/Equipe/Equipe";
+import SobreNos from "./components/sobreNos/SobreNos";
+import Formulario from "./components/Formulario/";
+import Home from "./components/Home/Home";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
-import Api from "./componentes/Api/Api";
+import Api from "./components/Api/Api";
 import "./assets/App.css";
 
 function App() {
@@ -24,16 +24,12 @@ function App() {
             <SobreNos />
           </Route>
 
-          <Route exact path="/bebidas/DrinksPopulares">
+          <Route exact path="/bebidas">
             <Api />
-          </Route>
+          </Route>        
 
-          {/* <Route path="/teste">
-            <Headers />
-          </Route> */}
-
-          <Route path="/bebidas/buscarDrink">
-            <Teste />
+          <Route path="/drinks/buscarDrink">
+            <Bebidas />
           </Route>
 
           <Route exact path="/">

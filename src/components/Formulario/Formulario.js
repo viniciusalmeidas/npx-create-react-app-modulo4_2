@@ -1,4 +1,4 @@
-import React, { Component, useState } from "react";
+import React, { useState } from "react";
 import imgContato from "../../assets/contato.jpg";
 import Botao from "../Botao/Botao";
 import Header from "../Header";
