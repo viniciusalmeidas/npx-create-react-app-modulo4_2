@@ -2,14 +2,13 @@
     🚀  
 </p>
 <h2 align="center">
-  PROJETO REACT 4 - TOP DRINKS GASTROBAR - http://topdrinks-react.revisional.org/
+  PROJETO REACT 4 - TOP DRINKS GASTROBAR 
 </h2>
 <p align="center">
   <a href="http://topdrinks-react.revisional.org/">
     <img src="https://github.com/viniciusalmeidas/projeto-topdrinksgastrobar-react/blob/main/public/imagem-site.png" width="980" height="350"/>
   </a>
 </p>
-imagem-site.png
 
 <hr>
 
@@ -19,65 +18,39 @@ imagem-site.png
 
 ### Você pode acompanhar a desenvolvimento do site através do site hospedado no Netlify
 
-  [![Netlify Status](https://api.netlify.com/api/v1/badges/3c7b83ca-3967-4f8b-b291-e0c5c0fc9311/deploy-status)](http://topdrinks-react.revisional.org/)
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/3c7b83ca-3967-4f8b-b291-e0c5c0fc9311/deploy-status)](http://topdrinks-react.revisional.org/)http://topdrinks-react.revisional.org/
 
 
 ### 🧐 Olhando os arquivos
 
     .
-    ├── 1 node_modules
+    ├── 1 public
     ├── 2 src
-    ├── 3 .gitignore
-    ├── 4 .prettierrc
-    ├── 5 .eslintrc.js
-    ├── 6 gatsby-browser.js
-    ├── 7 gatsby-config.js
-    ├── 8 gatsby-node.js
-    ├── 9 gatsby-ssr.js
-    ├── 10 LICENSE
-    └── 11 package.json
-    ├── 12 yarn.lock
-    ├── 13 tsconfig.json
-    ├── 14 vtex.env
-    └── 15 README.md
+    ├── 3 .gitattributes
+    ├── 4 .gitignore
+    ├── 5 LICENSE
+    ├── 6 README.md
+    ├── 7 package-lock.json
+    ├── 8 package.json
 
-1.  **`/node_modules`**: Contém todas as dependências de projeto (npm package) instaladas automáticamente.
+1.  **`/public`**: Possui arquivos e anexos de utilizadade para a aplicação e README.md
 
 2.  **`/src`**: Este diretório contém todo o código relacionado ao que você verá no front-end.
 
-3.  **`.gitignore`**: Diz ao git quais arquivos ele não deve rastrear / Controla o histórico de versão.
+3.  **`.gitiattributes`**:  é um arquivo de texto simples que fornece atributos para nomes de caminho.
 
-4.  **`.prettierrc`**: Prettier é uma ferramenta para ajudar a manter a formatação do seu código consistente. [Prettier] (https://prettier.io/). 
+4.  **`.gitignore`**: Diz ao git quais arquivos ele não deve rastrear / Controla o histórico de versão.  
 
-5.  **`.eslintrc.js`**: ESlint é uma ferramenta para localizar e corrigir problemas em seu código JavaScript. [ESLint] (https://eslint.org/). 
+5.  **`LICENSE`**: Este projeto está sobre a licensa GNU Affero General Public License v3.0.
 
-6.  **`gatsby-config.js`**: Configuração principal para um site Gatsby. É aqui que você pode especificar informações sobre o seu site como o título e a descrição do site, quais plug-ins Gatsby você gostaria de incluir, etc. (Confira os [documentos de configuração] (https://www.gatsbyjs.org/docs/gatsby-config/) para obter mais detalhes).
+6. **`README.md`**: **ESTAMOS AQUI** Um arquivo de texto contendo informações de referência úteis sobre o seu projeto.
 
-7.  **`gatsby-node.js`**: Este arquivo é onde Gatsby espera encontrar qualquer uso das [APIs Gatsby Node] (https://www.gatsbyjs.org/docs/node-apis/) (se houver). Isso permite a personalização / extensão das configurações padrão de Gatsby que afetam partes do processo de construção do site.
+7. **`package-lock.json`**: é gerado automaticamente para qualquer operação em que o npm modifique a árvore node_modules ou o package.json. Ele descreve a árvore exata que foi gerada, de forma que as instalações subseqüentes possam gerar árvores idênticas, independentemente das atualizações intermediárias de dependência
 
-8.  **`LICENSE`**: Gatsby está sobre a licensa MIT.
+8. **`package.json`**: Um arquivo de configuração para projetos Node.js, através desse arquivo o npm sabe quais pacotes instalar para o seu projeto.
 
-9. **`package.json`**: Um arquivo de configuração para projetos Node.js, através desse arquivo o npm sabe quais pacotes instalar para o seu projeto.
-
-10. **`yarn.lock`** Este é um arquivo gerado automaticamente com base nas versões exatas de suas dependências npm que foram instaladas para seu projeto. ** (Você não mudará este arquivo diretamente). **
-
-11. **`tsconfig.json`**: Contém a configuração para o compilador TypeScript. Irá analisar estaticamente o seu código em busca de erros e bugs antes de colocá-los em produção
-
-12. **`vtex.env`**: Variáveis de ambiente necessárias para acessar sua conta na VTEX
-
-13. **`README.md`**: **ESTAMOS AQUI** Um arquivo de texto contendo informações de referência úteis sobre o seu projeto.
 
 <hr> 
-
-## O que fizemos?
-
-Montagem de uma loja com tema predefinido pela VTEX utilizando:
-
-- GATSBY - [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql).
-- THEME UI - [Theme UI](https://theme-ui.com/getting-started/)
-- HEROKU - [HEROKU](https://devcenter.heroku.com/categories/reference)
-- FIGMA - [FIGMA](https://www.figma.com/file/V8JMmf2csPbFQZZp6CeYmm?embed_host=notion&kind=&node-id=17%3A335&viewer=1)
-<hr>
 
 ## **Quem sou:**
 |  <img src="https://github.com/viniciusalmeidas.png" width="1750" height="135">  |
@@ -90,47 +63,34 @@ Montagem de uma loja com tema predefinido pela VTEX utilizando:
 
 ## :moneybag: **Como você pode ajudar**
 
-### [__O que você acha de pagar um café? :coffee:__](https://www.buymeacoffee.com/nah7053)
+### [__O que você acha de pagar um café? :coffee:__](https://www.buymeacoffee.com/vinialmeida)
 
-Como alguns de vocês já devem saber, qualquer um pode contribuir comprando um café. [__Pague um café :coffee:__](https://www.buymeacoffee.com/nah7053). 
+Como alguns de vocês já devem saber, qualquer um pode contribuir comprando um café. [__Pague um café :coffee:__](https://www.buymeacoffee.com/vinialmeida). 
 
 Ficaremos muito gratos por qualquer coisa, mesmo que seja um café ou apenas um comentário gentil sobre o nosso trabalho, porque isso nos ajuda muito.
 
 <!--## 🚀 Quick start
 
-0. **Clone this repo**
-
-    Get up and running by cloning this repo.
-
-1.  **Install dependencies**
-
-    Install dependencies with yarn
+0. **Clone o repositório**
+    Pode usar o GitHub Desktop.
+    
+1.  **Instale as dependencias**
+    Instale as dependencias com o yarn.
     
 ### Create
- `cd repository`
+ `cd <repository directory>`
  `npx create-react-app <app name>`
 
 ### Available Scripts
 
-In the project directory, you can run:
+Na pasta do projeto você pode rodar:
 
 #### `npm start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+isso faará o aplicativo rodar no servidor local na porta 3000.<br />
+Abra [http://localhost:3000](http://localhost:3000) para ver no seu navegador padrão. (Indico o Google Chrome, as usual)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+Sempre que você atualizar algo no código a aplicação vai atualizar.<br />
+Você também verá qualquer erro de compilação ou syntax via terminal do seu VsCode
 
-
-2.  **Setup env vars.**
-
-    Chose a store by changing the `vtex.env` file and adding your own custom account name.
-
-3.  **Start developing.**
-
-    Navigate into your new site’s directory and start it up.
-
-
-    
 
