@@ -49,27 +49,7 @@
 
 8. **`package.json`**: Um arquivo de configuração para projetos Node.js, através desse arquivo o npm sabe quais pacotes instalar para o seu projeto.
 
-
-<hr> 
-
-## **Quem sou:**
-|  <img src="https://github.com/viniciusalmeidas.png" width="1750" height="135">  |
-| :--------------: | 
-| **Vinícius Almeida de Souza** | 
-|:octocat: [GitHub](https://github.com/viniciusalmeidas) | 
-| :briefcase: [LinkedIn](https://www.linkedin.com/in/valmsou/) |
-
-<hr>
-
-## :moneybag: **Como você pode ajudar**
-
-### [__O que você acha de pagar um café? :coffee:__](https://www.buymeacoffee.com/vinialmeida)
-
-Como alguns de vocês já devem saber, qualquer um pode contribuir comprando um café. [__Pague um café :coffee:__](https://www.buymeacoffee.com/vinialmeida). 
-
-Ficaremos muito gratos por qualquer coisa, mesmo que seja um café ou apenas um comentário gentil sobre o nosso trabalho, porque isso nos ajuda muito.
-
-<!--## 🚀 Quick start
+## 🚀 Quick start
 
 0. **Clone o repositório**
     Pode usar o GitHub Desktop.
@@ -93,4 +73,22 @@ Abra [http://localhost:3000](http://localhost:3000) para ver no seu navegador pa
 Sempre que você atualizar algo no código a aplicação vai atualizar.<br />
 Você também verá qualquer erro de compilação ou syntax via terminal do seu VsCode
 
+<hr> 
+
+## **Quem sou:**
+|  <img src="https://github.com/viniciusalmeidas.png" width="175" height="135">  |
+| :--------------: | 
+| **Vinícius Almeida de Souza** | 
+|:octocat: [GitHub](https://github.com/viniciusalmeidas) | 
+| :briefcase: [LinkedIn](https://www.linkedin.com/in/valmsou/) |
+
+<hr>
+
+## :moneybag: **Como você pode ajudar**
+
+### [__O que você acha de pagar um café? :coffee:__](https://www.buymeacoffee.com/vinialmeida)
+
+Como alguns de vocês já devem saber, qualquer um pode contribuir comprando um café. [__Pague um café :coffee:__](https://www.buymeacoffee.com/vinialmeida). 
+
+Ficaremos muito gratos por qualquer coisa, mesmo que seja um café ou apenas um comentário gentil sobre o nosso trabalho, porque isso nos ajuda muito.
 
