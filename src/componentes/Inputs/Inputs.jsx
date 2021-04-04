@@ -7,8 +7,6 @@ export default function Inputs({ titulo, tipoInput, focando }) {
 
   function exemplo(event) {
     const alvo = event.target.value;
-    console.log(alvo);
-    console.log(texto);
   }
 
   return (

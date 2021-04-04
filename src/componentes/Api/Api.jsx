@@ -2,18 +2,13 @@ import { React, useEffect, useState } from "react";
 import Card from "../Card/Card";
 import Header from "../Header";
 import Rodape from "../Rodape";
-import "./style.css";
+import "./estilo.css";
 import { requisicao } from "../../Model/Url";
 import ConteudoDrinks from "../ConteudoDrinks/ConteudoDrinks";
 import {
   Link,
-  useRouteMatch,
-  BrowserRouter as Router,
-  Switch,
-  Route,
+  useRouteMatch
 } from "react-router-dom";
-
-import BuscarDrink from "../BuscarDrink/BuscarDrink";
 
 export default function Api() {
   let { url, path } = useRouteMatch();
@@ -79,19 +74,19 @@ export default function Api() {
   ];
 
   function dadosCategoria(number) {
-    console.log();
+    // console.log();
     return render[number];
   }
 
   function card1() {
     setDadosApi(dadosApi);
     setDadosApiConteudo(0);
-    console.log(dadosApi);
+    // console.log(dadosApi);
   }
   function card2() {
     setDadosApi(dadosApi);
     setDadosApiConteudo(1);
-    console.log(dadosApi);
+    // console.log(dadosApi);
   }
 
   useEffect(async () => {
@@ -131,7 +126,7 @@ export default function Api() {
           {dadosCategoria(dadosApiConteudo)}
         </section>
         <section className="imgApiSecao">
-          <img className="imgApi" src={dadosApi[2].strDrinkThumb} />
+          <img className="imgApi" alt="imagem do API" src={dadosApi[2].strDrinkThumb} />
         </section>
       </ul>
       <Rodape />

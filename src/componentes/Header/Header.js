@@ -11,7 +11,7 @@ function Header() {
     <header className="cabeca">
       <ul className="menu">
         <li>
-          <NavLink className="headerMenu" exact to="/drinks/bebidas">
+          <NavLink className="headerMenu" exact to="/bebidas">
             Bebidas
           </NavLink>
         </li>
