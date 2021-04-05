@@ -23,7 +23,7 @@ export default function Api() {
       categoriaDrink={dadosApi[0].strCategory}
       copoDrink={dadosApi[0].strGlass}
       ibaDrink={dadosApi[0].strIBA}
-      ingredienteDrink={dadosApi[0].strIngredient1}
+      ingredienteDrink={[dadosApi[0].strIngredient1]}
       instrucoesDrink={dadosApi[0].strInstructions}
     />,
     <ConteudoDrinks
@@ -74,7 +74,6 @@ export default function Api() {
   ];
 
   function dadosCategoria(number) {
-    // console.log();
     return render[number];
   }
 
