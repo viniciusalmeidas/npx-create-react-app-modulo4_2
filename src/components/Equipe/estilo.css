@@ -1,26 +1,26 @@
 .nome {
   font-family: "Currier New", cursive;
   color: #5d0612;
-  font-size: 32.5px;
+  font-size: 18px;
   border-color: #f3ae19;
   border-style: solid;
-  padding: 5px;
+  padding: 3px;
 }
 
 .foto {
   border: solid #e9d414e7;
   margin-left: 20%;
-  border-radius: 80px; 
+  border-radius: 60px; 
   padding: 1px;
 }
 
 
 .paragrafoEquipe {
-  width: 800px;
-  font-size: 20px;
+  width: 350px;
+  font-size: 14px;
   text-indent: 18px;
   font-family: "Ubuntu", sans-serif;
-  line-height: 34px;
+  line-height: 30px;
   text-align: justify;
 }
 
@@ -30,7 +30,7 @@
   flex-direction: row;
   justify-content: space-around;
   align-items: center;
-  margin-top: 5%;
+  margin-top: 4%;
 }
 
 .icones-sociais{

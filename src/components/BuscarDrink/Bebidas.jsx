@@ -20,7 +20,6 @@ export default function Bebidas() {
 
   /*     useEffect(async () => {
     const req = await requisicaoBuscar(nomeBebida);
-    console.log(req[0]);
   }, []); */
 
   return (
